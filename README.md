@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Luxurious+Roman&color=%2336BCF7&size=28&lines=Hey!+Its+Mohd+Aman;Front+End+Web+Developer...)](https://git.io/typing-svg)
 
 <i>Follow me around the web:</i><br>
-<a href=" (27) Mohd Aman | LinkedIn
+<a href="https://linkedin.com/in/myrat-charyyev">
 ![image](https://github.com/MohdAman000/MohdAman000/assets/146714027/4ff2ddf5-1b5c-4500-b41d-3910e0fbc5ef)
 ">
   <img align="left" alt="Mohd's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64637806/118018764-1c63f300-b350-11eb-879a-b1025a01ca4c.png" />
