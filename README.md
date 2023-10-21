@@ -5,12 +5,12 @@
 
 
 
-<!-- ## Hey! I'm Tarun Ahirwar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<!-- ## Hey! I'm Mohd Aman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Luxurious+Roman&color=%2336BCF7&size=28&lines=Hey!+Its+Mohd+Aman;Front+End+Web+Developer...)](https://git.io/typing-svg)
 
 <i>Follow me around the web:</i><br>
-<a href="https://linkedin.com/in/myrat-charyyev">
+<a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFt5CiopL06-QAAAYtTXfNgkqPaTGxRFW_NB0vIxpEQXppwC5VbUZsnw3QfI5NpCR84r9HwjfwmsIDgPa2BcQkSWGbsyFtL2lJK1U3NDNrOgBNq5Y-GSC8QedJbmm9f3TGh6Eg=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohd-aman-566058204%2F | LinkedIn
 ![image](https://github.com/MohdAman000/MohdAman000/assets/146714027/4ff2ddf5-1b5c-4500-b41d-3910e0fbc5ef)
 ">
   <img align="left" alt="Mohd's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/64637806/118018764-1c63f300-b350-11eb-879a-b1025a01ca4c.png" />
